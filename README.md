@@ -1,43 +1,33 @@
 # Hi, I'm Martin Zhong 👋
 
-Master's student at Shanghai Jiao Tong University.
+Master's student at Shanghai Jiao Tong University, exploring AI products, international users, and data-driven growth.
 
-I'm interested in building AI-native products and exploring how AI can turn ideas into real, usable tools.
+I like turning ideas into real products with AI-assisted coding.
 
-## 🚀 What I'm Building
+## 🚀 Featured Project
 
 ### Adapt to China
 
 An English-first platform helping foreigners navigate everyday life in China.
 
-- Built from 0 to 1 with AI-assisted coding
+- Built from 0 → 1 with AI-assisted coding
 - 151 pages
-- 132 service/location listings
+- 132 service / location listings
 - 6 real paid orders
-- Deployed with Cloudflare Pages
 - Iterated based on real international user feedback
+- Deployed on Cloudflare Pages
 
-## 🧠 Currently Learning
+🌐 [Live Product](https://adapttochina.pages.dev/)  
+💻 [View Repository](https://github.com/MartinZhong2003/adapt-to-china)
 
-- Python
-- Git & GitHub
-- APIs
-- AI-assisted Coding
-- Automation / Workflows
-- Product Development
+## 🧠 What I'm Exploring
 
-## 🛠 Tools
+AI Products · Vibe Coding · Automation · International User Growth · Product Growth
 
-ChatGPT · Claude · Gemini · SQL · R · Stata · Cloudflare Pages
+## 🛠 Current Stack
+
+Claude · ChatGPT · Git/GitHub · HTML/CSS/JavaScript · Python (learning) · SQL · R · Cloudflare Pages
 
 ## 🌏 Background
 
-My previous experience includes market research, international user operations, data analysis and cross-cultural communication.
-
-I am especially interested in:
-
-- AI Product
-- Vibe Coding
-- International User Growth
-- Consumer Insight
-- Automation
+Previously worked across market research, consumer insights, international user research, data analysis and cross-cultural projects.
